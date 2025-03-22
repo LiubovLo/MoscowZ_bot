@@ -1,0 +1,6 @@
+[
+    {
+        "feadback": "message.text",
+        "user": "message.from_user.username"
+    }
+]
